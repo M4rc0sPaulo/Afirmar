@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">Nenhum mentiroso tem uma memória suficientemente boa para ser um mentiroso de êxito. - Abraham Lincoln</string>
+    <string name="affirmation2">Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado. - Roberto Shinyashiki</string>
+    <string name="affirmation3">A única forma de chegar ao impossível é acreditar que é possível. - Alice no País das Maravilhas</string>
+    <string name="affirmation4">Pessoas bem sucedidas fazer o que pessoas não mal-sucedidas não estão dispostas a fazer. Não desejam que seja mais fácil, mas que sejam melhores. - Jim Rohn</string>
+    <string name="affirmation5">Não deixe o que você não pode fazer interferir com o que você pode fazer. - John R. Wooden</string>
+    <string name="Texto">TextView</string>
+
+</resources>
